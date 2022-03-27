@@ -28,10 +28,10 @@
 ---
 
 
-<p align="center">
+<p>
     <p><img src="https://github-readme-stats.vercel.app/api?username=titi7750&amp;show_icons=true&amp;theme=radical" alt="Anurag&#39;s GitHub stats"></p>
 </p>
-<p align="center">
+<p>
 <p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=titi7750&amp;layout=compact" alt="Top Langs"></a></p>
 </p>
 <p align="center">
