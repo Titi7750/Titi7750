@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tristan Fioroni</h1>
 <h3 align="center">A passionate on development</h3>
 
-- 🌱 I’m currently learning **PHP**
+- 🔭 I’m currently working on **Portfolio JS Animation**
 
-- 🔭 I’m currently working on **Portfolio JS**
+- 🌱 I’m currently learning **PHP**
 
 - 📫 How to reach me **tristanfio05@gmail.com**
 
