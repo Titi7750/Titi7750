@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **PHP**
 
+- 🔭 I’m currently working on **Portfolio JS**
+
 - 📫 How to reach me **tristanfio05@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
