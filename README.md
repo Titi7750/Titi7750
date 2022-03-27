@@ -28,13 +28,13 @@
 ---
 
 
-<p>
+<p align="center">
     <p><img src="https://github-readme-stats.vercel.app/api?username=titi7750&amp;show_icons=true&amp;theme=radical" alt="Anurag&#39;s GitHub stats"></p>
 </p>
-<p>
-<p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=titi7750&amp;layout=compact" alt="Top Langs"></a></p>
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=titi7750&amp;layout=compact" alt="Top Langs"></a>
 </p>
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=titi7750" alt="willianrod&#39;s wakatime stats"></a>
 </p>
-<img src="https://badges.pufler.dev/visits/titi7750"
+<img src="https://badges.pufler.dev/visits/titi7750">
