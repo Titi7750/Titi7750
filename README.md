@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tristan Fioroni</h1>
 <h3 align="center">A passionate on development</h3>
 
-- 🔭 I’m currently working on **Portfolio JS Animation**
+- 🔭 I’m currently working on **Outil ordonnancement PHP Symfony**
 
 - 🌱 I’m currently learning **PHP**
 
