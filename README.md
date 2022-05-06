@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Outil ordonnancement PHP Symfony**
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **PHP Symfony**
 
 - 📫 How to reach me **tristanfio05@gmail.com**
 
