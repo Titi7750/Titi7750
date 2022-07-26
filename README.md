@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tristan Fioroni</h1>
 <h3 align="center">A passionate on development</h3>
 
-- 🔭 I’m currently working on **Application in Flutter
+- 🔭 I’m currently working on **Application in Flutter**
 
-- 🌱 I’m currently learning **Flutter
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **tristanfio05@gmail.com**
 
