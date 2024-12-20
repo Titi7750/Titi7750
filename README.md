@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tristan Fioroni</h1>
 <h3 align="center">A passionate on development</h3>
 
-- 🔭 I’m currently working on **Application in Symfony**
+- 🔭 I’m currently working on **Logiciel Python**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [tristan-fioroni.fr](tristan-fioroni.fr)
 
